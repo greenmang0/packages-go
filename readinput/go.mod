@@ -1,8 +1,8 @@
-module github.com/greenmang0/packages-go/readinput
+module github.com/my10c/packages-go/readinput
 
 go 1.20
 
 require (
-	github.com/my10c/packages-go/exit v0.0.0-20230629045125-5efc1e3334c4 // indirect
-	github.com/my10c/packages-go/print v0.0.0-20230629045125-5efc1e3334c4 // indirect
+	github.com/my10c/packages-go/exit v0.0.0-20220530031542-8a2059d8a59f // indirect
+	github.com/my10c/packages-go/print v0.0.0-20220530031542-8a2059d8a59f // indirect
 )
