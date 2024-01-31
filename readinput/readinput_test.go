@@ -10,8 +10,8 @@ package readinput_test
 
 import (
 	"fmt"
-	"github.com/greenmang0/packages-go/readinput"
 	"github.com/my10c/packages-go/print"
+	"github.com/my10c/packages-go/readinput"
 	"testing"
 )
 
